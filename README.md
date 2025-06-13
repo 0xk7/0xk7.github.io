@@ -1,3 +1,3 @@
 # Blog site for me
 
-## [https://g0mii.github.io]
+## [https://0xk7.github.io]
